@@ -1,4 +1,9 @@
-echo "*.pyc" > .gitignore
-echo "__pycache__/" >> .gitignore
-echo ".env" >> .gitignore
-echo ".DS_Store" >> .gitignore
+# Virtual Environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
