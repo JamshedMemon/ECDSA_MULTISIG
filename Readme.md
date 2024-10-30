@@ -1,3 +1,5 @@
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
 # ECDSA MultiSig Implementation
 
 A Python implementation of ECDSA (Elliptic Curve Digital Signature Algorithm) multi-signature system. This tool allows multiple parties to sign messages, requiring a minimum number of signatures for validation.
